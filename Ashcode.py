@@ -11,4 +11,6 @@ if CI==ID:
 else:
   print(Your Customer ID is wrong)
   
-  
+  n=5
+  f=10
+  n+f
